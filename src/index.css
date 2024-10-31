@@ -1,0 +1,13 @@
+.manrope { 
+  font-family: "Manrope", sans-serif; 
+}
+body { 
+  background: #fff;
+  overflow-x: hidden; 
+}
+.bg { 
+    background: url(assets/Frame8.jpg) no-repeat scroll center;
+}
+.hero{
+    height: 80vh !important;
+}
